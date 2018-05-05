@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    >
+
+    <RelativeLayout
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivFoto"
+            tools:src="@drawable/godofwar"
+            android:layout_width="96dp"
+            android:layout_height="100dp" />
+
+        <LinearLayout
+            android:layout_toRightOf="@+id/ivFoto"
+            android:layout_toLeftOf="@+id/ivDelete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="@string/titulo_god_of_war"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:id="@+id/tvTitulo"/>
+
+            <TextView
+                android:textColor="#AAA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="@string/lancamento"
+                android:id="@+id/tvLancamento"/>
+
+            <TextView
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="@string/descricao_god_of_war"
+                android:id="@+id/tvDescricao"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/ivDelete"
+            android:src="@drawable/delete"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:padding="8dp"/>
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

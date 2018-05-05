@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">MeusJogosFavoritos</string>
+
+    <string name="titulo_god_of_war">
+        God of War
+    </string>
+    <string name="lancamento">Lançamento: %1$d</string>
+    <string name="descricao_god_of_war">
+        Muitos anos se passaram desde que Kratos teve sua vingança contra os deuses do Olimpo, e agora ele vive com seu filho Atreus em Midgard. O jogo começa após a morte da segunda esposa de Kratos e mãe de Atreus, Faye. Seu último desejo era que suas cinzas fossem espalhadas no pico mais alto dos nove reinos nórdicos. Antes de iniciar sua jornada, Kratos é confrontado por um homem misterioso com poderes divinos. Depois de aparentemente matá-lo, Kratos e Atreus partiram em sua jornada.
+        Em sua jornada, Kratos e Atreus encontram a Serpente do Mundo, Jörmungandr, que se mostra amigável. Depois de correr em névoa negra impenetrável, que só pode ser extinta com luz de Álfheim, eles recebem ajuda da Bruxa da floresta para recuperar a Pedra da Unidade para garantir a luz. Ao chegar ao pico de Midgard, eles ouvem uma conversa entre o misterioso homem, revelado como sendo Baldur, dois homens e um prisioneiro chamado Mímir. Depois que eles saem, Kratos e Atreus conversam com Mímir, que revela que o objetivo deles é, na verdade, em Jotunheim, mas viajar para lá foi bloqueado para afastar Odin e Thor. Mímir, no entanto, conhece outra passagem. Ele instrui Kratos a cortar a sua cabeça e revivê-lo através da bruxa, revelada como sendo Freya. Kratos imediatamente desconfia dele, mas ambos Freya e Mímir avisam que ele deve dizer a Atreus sobre sua verdadeira natureza e de seu passado.
+        A viagem de Kratos, Atreus e Mímir para coletar os componentes necessários para abrir o portal de Jotunheim é interrompido quando eles são atacados pelos irmãos Modi e Magni. Depois de matar Magni, Modi foge, mas depois retorna e os embosca. Atreus adoece, e Freya explica que é uma contradição mental de um deus acreditando ser um mortal. Ela diz a Kratos que ele deve recuperar o coração do Guardião da Ponte dos Condenados em Helheim, mas ela diz que seu Machado Leviatã será inútil por lá. Kratos volta para casa para desenterrar suas armas antigas, as Lâminas do Caos, e é assombrado pelo espírito de Atena, que o incita sobre seu passado. Depois de recuperar o coração, ele tem uma visão assombrosa de Zeus. Atreus está curado e Kratos diz a ele que ele é um deus. Atreus então se torna cada vez mais arrogante em sua jornada, e ele mata um Modi enfraquecido, apesar de Kratos ordenar para ele não fazer isso. No pico de Midgard, eles são emboscados por Baldur, resultando no portal de Jotunheim sendo destruído e os três caindo em Helheim.
+        Atreus faz as pazes com Kratos e eles descobrem sobre o relacionamento familiar de Freya e Baldur. De volta a Midgard, Mímir percebe que há outra maneira de chegar a Jotunheim, mas é preciso recuperar o olho perdido. Após obtê-lo da barriga de Jörmungandr, que inadvertidamente os engoliu, eles são novamente atacados por Baldur, mas Freya intervém na tentativa de proteger seu filho. Durante a luta, Baldur é perfurado por uma ponta de flecha de visco que Atreus tinha em seu quiver, quebrando o feitiço de Freya sobre ele. Baldur é derrotado, e embora Kratos lhe dê uma oportunidade de recuar, ele tenta estrangular Freya, forçando Kratos a matá-lo. Uma Freya em luto jura vingança a Kratos e o insulta por esconder a sua verdadeira natureza de Atreus. Kratos finalmente conta a Atreus sobre seu passado e como ele matou seus companheiros deuses gregos, incluindo seu próprio pai, Zeus. Atreus lamenta o ocorrido e Kratos diz a ele que ambos devem aprender com suas experiências e não repetir os erros de seus antecessores. Uma silenciosa Freya sai com o cadáver de Baldur, e Mímir, esperançosamente, sugere que ela acabará por sair do luto e que Kratos fez a coisa certa.
+        Em Jotunheim, eles encontram um templo com um mural representando suas aventuras, mostrando que os gigantes previram tudo o que aconteceria e previram vagamente o que estava por vir. Além disso, eles descobrem que Faye era uma gigante que decidiu ficar para trás em Midgard, também tornando Atreus parte gigante. Também é revelado que Atreus foi nomeado Loki por sua mãe. Imaginando se tudo foi planejado por Faye antecipadamente, Kratos e Atreus cumpriram sua promessa e espalharam suas cinzas no pico. Depois, Kratos revela a Atreus que seu nome dado era também o nome de um camarada espartano compassivo que ele conhecia. Quando eles voltam para Midgard, Mímir os avisa que o Fimbulwinter começou, o que significa que o Ragnarök está prestes a começar.
+        No final secreto do jogo, Kratos e Atreus voltam para casa e dormem. Atreus tem uma visão que anos depois, no final do Fimbulwinter, Thor chegará em sua casa para enfrentá-los.
+    </string>
+    <string name="title_activity_detalhe">DetalheActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
